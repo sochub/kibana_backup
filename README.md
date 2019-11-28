@@ -2,7 +2,7 @@
 
 ![](https://image.flaticon.com/icons/svg/1983/1983619.svg =250x250)
 
-With this script you can make a backup copy of different instances of KIBANA (just saved object). It basically connects to the API and then saves the data in an S3. You need the following environment variables to function.
+With this script you can make a backup copy of different instances of KIBANA (just saved object). Basically connects to the API and then saves the data in an S3. You need the following environment variables to function.
 
 ###Tables
                     
